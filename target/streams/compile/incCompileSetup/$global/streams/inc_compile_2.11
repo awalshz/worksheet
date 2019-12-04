@@ -1,0 +1,520 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+44 items
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Calculator$$anonfun$1.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Calculator$$anonfun$computeValues$1.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Calculator$$anonfun$computeValues$2$$anonfun$apply$1.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Calculator$$anonfun$computeValues$2.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Calculator$$anonfun$getReferenceExpr$1.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Calculator$$anonfun$getReferenceExpr$2.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Calculator$.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Calculator.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Divide$.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Divide.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Expr.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Literal$.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Literal.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Minus$.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Minus.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Plus$.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Plus.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Ref$.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Ref.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Times$.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Times.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Polynomial$$anonfun$computeDelta$1.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Polynomial$$anonfun$computeSolutions$1.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Polynomial$.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Polynomial.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\NoSignal$$anonfun$$lessinit$greater$1.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\NoSignal$.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\NoSignal.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Signal$$anonfun$1.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Signal$$anonfun$apply$1.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Signal$$anonfun$computeValue$1.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Signal$$anonfun$computeValue$2.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Signal$.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Signal.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Var$.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Var.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\TweetLength$$anonfun$calculator$TweetLength$$tweetLength$1.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\TweetLength$$anonfun$colorForRemainingCharsCount$1.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\TweetLength$$anonfun$tweetRemainingCharsCount$1.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\TweetLength$.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\TweetLength.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\common\package$.class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\common\package.class
+binary dependencies:
+10 items
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Program Files\Java\jre1.8.0_221\lib\rt.jar
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> C:\Program Files\Java\jre1.8.0_221\lib\rt.jar
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> C:\Users\Alex\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> C:\Program Files\Java\jre1.8.0_221\lib\rt.jar
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Alex\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> C:\Program Files\Java\jre1.8.0_221\lib\rt.jar
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> C:\Users\Alex\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> C:\Program Files\Java\jre1.8.0_221\lib\rt.jar
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> C:\Users\Alex\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+44 items
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator$
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator$$anonfun$1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator$$anonfun$computeValues$1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator$$anonfun$computeValues$2
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator$$anonfun$computeValues$2$$anonfun$apply$1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator$$anonfun$getReferenceExpr$1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator$$anonfun$getReferenceExpr$2
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Divide
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Divide$
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Expr
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Literal
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Literal$
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Minus
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Minus$
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Plus
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Plus$
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Ref
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Ref$
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Times
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Times$
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> calculator.Polynomial
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> calculator.Polynomial$
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> calculator.Polynomial$$anonfun$computeDelta$1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> calculator.Polynomial$$anonfun$computeSolutions$1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> calculator.NoSignal
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> calculator.NoSignal$
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> calculator.NoSignal$$anonfun$$lessinit$greater$1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> calculator.Signal
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> calculator.Signal$
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> calculator.Signal$$anonfun$1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> calculator.Signal$$anonfun$apply$1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> calculator.Signal$$anonfun$computeValue$1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> calculator.Signal$$anonfun$computeValue$2
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> calculator.Var
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> calculator.Var$
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> calculator.TweetLength
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> calculator.TweetLength$
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> calculator.TweetLength$$anonfun$calculator$TweetLength$$tweetLength$1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> calculator.TweetLength$$anonfun$colorForRemainingCharsCount$1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> calculator.TweetLength$$anonfun$tweetRemainingCharsCount$1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> common.package
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> common.package$
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> common.package$$anonfun$subFile$1
+used names:
+283 items
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> &&
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> *
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> +
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> -
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> ->
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> /
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> <byname>
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> <init>
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> ==
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> A
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> AbstractFunction1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> AbstractFunction2
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Any
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> AnyRef
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> ArrowAssoc
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> B
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> B1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Boolean
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Calculator
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> CanBuildFrom
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Coll
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Divide
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Double
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Expr
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> FilterMonadic
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Function1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> IndexOutOfBoundsException
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Int
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Iterator
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Literal
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Map
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> MatchError
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Minus
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> None
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Nothing
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Object
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Option
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Plus
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Predef
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Product
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Ref
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> ScalaRunTime
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Serializable
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Signal
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Some
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Statics
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> String
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> T
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> T0
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> T1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> T2
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> That
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Times
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> Tuple2
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> _1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> _2
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> _hashCode
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> _toString
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> a
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> apply
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> asInstanceOf
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> b
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> calculator
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> canBuildFrom
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> doubleHash
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> eq
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> eval
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> expr
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> exprSignal
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> finalizeHash
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> fold
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> get
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> immutable
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> isInstanceOf
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> map
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> mix
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> name
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> namedExpressions
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> nan
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> ne
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> package
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> references
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> runtime
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> scala
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> sig
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> str
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> toString
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> typedProductIterator
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> unchecked
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> updated
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> v
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> withDefaultValue
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> withFilter
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> ||
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> *
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> +
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> -
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> /
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> <
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> <byname>
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> <init>
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> <repeated>
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> ==
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> A
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> Any
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> AnyRef
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> Boolean
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> Double
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> Int
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> Nothing
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> Object
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> Polynomial
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> Predef
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> Set
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> Signal
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> T
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> a
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> a_
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> apply
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> b
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> b_
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> c
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> c_
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> calculator
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> delta
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> math
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> package
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> scala
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> sqrt
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> unary_-
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> +
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> -
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> ::
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> <byname>
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> <init>
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> <repeated>
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> ???
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> A
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> Any
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> AnyRef
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> B
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> Boolean
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> DynamicVariable
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> Function0
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> Function1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> List
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> Nil
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> NoSignal
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> Nothing
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> Object
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> Predef
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> S
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> Set
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> Signal
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> T
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> U
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> Unit
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> Var
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> _$1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> _$2
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> _$3
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> _root_
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> apply
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> assert
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> calculator
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> caller
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> computeValue
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> contains
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> expr
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> foreach
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> immutable
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> myExpr
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> myExpr_=
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> myValue
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> myValue_=
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> newValue
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> obs
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> observed
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> observed_=
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> observers
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> observers_=
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> package
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> scala
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> sig
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> unary_!
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> update
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> util
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> value
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> withValue
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> -
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> <
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> <byname>
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> <init>
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> >=
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> A1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> Any
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> AnyRef
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> B
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> Boolean
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> CanBuildFrom
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> Char
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> Character
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> Function1
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> Function2
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> GenIterable
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> IndexedSeq
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> Int
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> Nothing
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> Object
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> Predef
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> Signal
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> String
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> StringOps
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> T
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> That
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> Tuple2
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> TweetLength
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> WrappedString
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> apply
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> augmentString
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> calculator
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> count
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> fallbackStringCanBuildFrom
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> init
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> isEmpty
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> isSurrogatePair
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> java
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> lang
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> length
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> r
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> remainingCharsCount
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> scala
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> tail
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> text
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> tupled
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> tweetLength
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> tweetText
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> wrapString
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> zip
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> ::
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> <init>
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> <repeated>
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> ?0
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> A
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> Any
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> AnyRef
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> B
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> Boolean
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> Class
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> File
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> FileInputStream
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> Function2
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> InputStream
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> List
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> None
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> Nothing
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> Object
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> Option
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> Predef
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> Some
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> String
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> URI
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> URL
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> _root_
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> child
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> children
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> classesDir
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> common
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> exists
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> file
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> foldLeft
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> getClass
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> getParentFile
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> getResource
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> io
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> java
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> package
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> projectDir
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> resourceFile
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> resourcePath
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> scala
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> subFile
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> toURI
+product stamps:
+44 items
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Calculator$$anonfun$1.class -> lastModified(1569531324709)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Calculator$$anonfun$computeValues$1.class -> lastModified(1569531324731)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Calculator$$anonfun$computeValues$2$$anonfun$apply$1.class -> lastModified(1569531324762)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Calculator$$anonfun$computeValues$2.class -> lastModified(1569531324752)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Calculator$$anonfun$getReferenceExpr$1.class -> lastModified(1569531324780)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Calculator$$anonfun$getReferenceExpr$2.class -> lastModified(1569531324792)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Calculator$.class -> lastModified(1569531324690)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Calculator.class -> lastModified(1569531324650)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Divide$.class -> lastModified(1569531324812)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Divide.class -> lastModified(1569531324842)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Expr.class -> lastModified(1569531324853)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Literal$.class -> lastModified(1569531324873)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Literal.class -> lastModified(1569531324893)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Minus$.class -> lastModified(1569531324933)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Minus.class -> lastModified(1569531324913)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\NoSignal$$anonfun$$lessinit$greater$1.class -> lastModified(1569531324984)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\NoSignal$.class -> lastModified(1569531324953)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\NoSignal.class -> lastModified(1569531324943)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Plus$.class -> lastModified(1569531325094)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Plus.class -> lastModified(1569531325076)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Polynomial$$anonfun$computeDelta$1.class -> lastModified(1569531325146)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Polynomial$$anonfun$computeSolutions$1.class -> lastModified(1569531325164)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Polynomial$.class -> lastModified(1569531325126)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Polynomial.class -> lastModified(1569531325106)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Ref$.class -> lastModified(1569531325197)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Ref.class -> lastModified(1569531325187)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Signal$$anonfun$1.class -> lastModified(1569531325275)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Signal$$anonfun$apply$1.class -> lastModified(1569531325287)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Signal$$anonfun$computeValue$1.class -> lastModified(1569531325328)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Signal$$anonfun$computeValue$2.class -> lastModified(1569531325358)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Signal$.class -> lastModified(1569531325227)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Signal.class -> lastModified(1569531325257)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Times$.class -> lastModified(1569531325419)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Times.class -> lastModified(1569531325398)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\TweetLength$$anonfun$calculator$TweetLength$$tweetLength$1.class -> lastModified(1569531594694)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\TweetLength$$anonfun$colorForRemainingCharsCount$1.class -> lastModified(1569531594742)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\TweetLength$$anonfun$tweetRemainingCharsCount$1.class -> lastModified(1569531594772)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\TweetLength$.class -> lastModified(1569531594643)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\TweetLength.class -> lastModified(1569531594449)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Var$.class -> lastModified(1569531325579)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\calculator\Var.class -> lastModified(1569531325561)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class -> lastModified(1569531325812)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\common\package$.class -> lastModified(1569531325792)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\target\scala-2.11\classes\common\package.class -> lastModified(1569531325591)
+source stamps:
+5 items
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> hash(021a676b1e06e66e2aaa1a8d12a8b320e3518d5d)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> hash(6fd87d20434b8e0a26fa7e62a68638db699d6f32)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> hash(f5a6296731e63462e7bc526b412634843c732002)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> hash(2e649a95c6a07501d2d7a5226a48e7b9fbb163ed)
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+binary stamps:
+2 items
+C:\Program Files\Java\jre1.8.0_221\lib\rt.jar -> lastModified(1567541291974)
+C:\Users\Alex\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> lastModified(1509673049000)
+class names:
+2 items
+C:\Program Files\Java\jre1.8.0_221\lib\rt.jar -> java.lang.Object
+C:\Users\Alex\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> scala.collection.immutable.WrappedString
+internal apis:
+5 items
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwhCeHmwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAsc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwtnYSVHQADWNvbXB1dGVWYWx1ZXNzcQB+AAw5TjNsdAAGbm90aWZ5c3EAfgAMG0nRAnQABG5hbWVzcQB+AAy2BLd2dAAEd2FpdHNxAH4ADKSeyoR0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADKjQarx0AA0kYXNJbnN0YW5jZU9mc3EAfgAMcDgfw3QADHByb2R1Y3RBcml0eXNxAH4ADNqzt2t0AAZlcXVhbHNzcQB+AAy9TJ+fdAAMYXNJbnN0YW5jZU9mc3EAfgAM0H4NWnQABEV4cHJzcQB+AAzUI8TadAAGRGl2aWRlc3EAfgAMRWz0E3QADHN5bmNocm9uaXplZHNxAH4ADNP/QHN0AAFhc3EAfgAMmcgBWnQADSRpc0luc3RhbmNlT2ZzcQB+AAyRW8J8dAAHTGl0ZXJhbHNxAH4ADMc9tDt0AAhjYW5FcXVhbHNxAH4ADNm6wgZ0AA1wcm9kdWN0UHJlZml4c3EAfgAMha4rsHQACW5vdGlmeUFsbHNxAH4ADD7Y3LZ0AARQbHVzc3EAfgAM540PKnQADGlzSW5zdGFuY2VPZnNxAH4ADNazIt90AARldmFsc3EAfgAMX7RTpXQAA25hbnNxAH4ADM8Q2A10AAVNaW51c3NxAH4ADCWCcJB0AAF2c3EAfgAM+VF4ynQABjxpbml0PnNxAH4ADPkCh8Z0AAFic3EAfgAMERdYK3QAAj09c3EAfgAMQgLe23QABWNsb25lc3EAfgAM9HA5LXQABiRpbml0JHNxAH4ADEg1KqV0AARjb3B5c3EAfgAMfuN2OXQACHRvU3RyaW5nc3EAfgAMYf7xRXQAAiE9c3EAfgAMdYSj3XQABVRpbWVzc3EAfgAMJKZ+V3QACGdldENsYXNzc3EAfgAM2bwL1HQADmNvcHkkZGVmYXVsdCQxc3EAfgAMIVBL43QAAm5lc3EAfgAMpGhhEXQAAmVxc3EAfgAMOAp2p3QACkNhbGN1bGF0b3JzcQB+AAx6/3pkdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAM3n1KknQAAiMjc3EAfgAMffevWXQACGZpbmFsaXplc3EAfgAMZ82hfHQAA1JlZnNxAH4ADHNXZQ50AA5wcm9kdWN0RWxlbWVudHNxAH4ADHCsIN10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAhzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AG94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAl0AA9jYWxjdWxhdG9yLkV4cHJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ah3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBvTAAJaW5oZXJpdGVkcQB+AG9MAAdwYXJlbnRzcQB+AG94cQB+AIxzcQB+AId1cQB+AGoAAAAAc3EAfgCHdXEAfgBqAAAAAHNxAH4Ah3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml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
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwnw8rFgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw8d3HCnQABm5vdGlmeXNxAH4ADI+Ishp0AAR3YWl0c3EAfgAMIbJsV3QADSRhc0luc3RhbmNlT2ZzcQB+AAxpr7OsdAAGZXF1YWxzc3EAfgAMMXRbPXQADGFzSW5zdGFuY2VPZnNxAH4ADPvu3HJ0AAxzeW5jaHJvbml6ZWRzcQB+AAyib3McdAANJGlzSW5zdGFuY2VPZnNxAH4ADNRtJKt0AAxjb21wdXRlRGVsdGFzcQB+AAxgcDbSdAAJbm90aWZ5QWxsc3EAfgAMZv5P1HQAEGNvbXB1dGVTb2x1dGlvbnNzcQB+AAw17SR0dAAMaXNJbnN0YW5jZU9mc3EAfgAMySv2UXQAAj09c3EAfgAMdSTJu3QABWNsb25lc3EAfgAMQuXlWHQAClBvbHlub21pYWxzcQB+AAx/r/IXdAAIdG9TdHJpbmdzcQB+AAykVg+wdAACIT1zcQB+AAzy46MmdAAIZ2V0Q2xhc3NzcQB+AAzBSrB/dAACbmVzcQB+AAzIWyYldAACZXFzcQB+AAzu6eHadAACIyNzcQB+AAwKW7HVdAAIZmluYWxpemVzcQB+AAxCTTYpdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAVY2FsY3VsYXRvci5Qb2x5bm9taWFsdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBbc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AYHNxAH4AW3VxAH4APgAAAABzcQB+AFt1cQB+AD4AAAAAc3EAfgBbdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBfdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB4dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5c3EAfgBsdAADQW55c3EAfgBwc3EAfgBzdXEAfgB2AAAAAnNxAH4AeHQABXNjYWxhcQB+AH91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApjYWxjdWxhdG9yc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFtb1tUvHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AF9DOlxVc2Vyc1xBbGV4XERlc2t0b3BcUHJvZ3JhbWFzU2NhbGFcRnVuY2lvbmFsUHJvZ3JhbW1pbmcyXGNhbGN1bGF0b3JcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFG/YfSBDS44KJvp+YqaGONtpnW8y
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwsUkF4AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwDcL2UXQABm5vdGlmeXNxAH4ADCdtMJF0AAR3YWl0c3EAfgAM13IXunQADSRhc0luc3RhbmNlT2ZzcQB+AAxWkmoJdAADVmFyc3EAfgAMPK5nNHQABlNpZ25hbHNxAH4ADD2RloB0AAZlcXVhbHNzcQB+AAx/cLlqdAAMYXNJbnN0YW5jZU9mc3EAfgAMkq39XHQADHN5bmNocm9uaXplZHNxAH4ADH5dr1t0AA0kaXNJbnN0YW5jZU9mc3EAfgAM17JDSHQACW5vdGlmeUFsbHNxAH4ADIibBON0AAxpc0luc3RhbmNlT2ZzcQB+AAx36a+DdAAITm9TaWduYWxzcQB+AAy9LewDdAAGPGluaXQ+c3EAfgAMdELihnQABWFwcGx5c3EAfgAMKts57nQAAj09c3EAfgAM3FuTJ3QABWNsb25lc3EAfgAMriGURXQACHRvU3RyaW5nc3EAfgAMoMK/XnQAAiE9c3EAfgAMwiYD/XQADGNvbXB1dGVWYWx1ZXNxAH4ADCcVuqV0AAhnZXRDbGFzc3NxAH4ADKJVgqB0AAZ1cGRhdGVzcQB+AAzB/RkxdAACbmVzcQB+AAzt+eeNdAACZXFzcQB+AAx4/AT2dAACIyNzcQB+AAy7l5gwdAAIZmluYWxpemVzcQB+AAyae6AodAAGY2FsbGVyc3EAfgAMASV+k3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAEWNhbGN1bGF0b3IuU2lnbmFsdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAFzcgAXeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXJnaVXb43KQawIABlsAC2Fubm90YXRpb25zcQB+AFJMAAJpZHEAfgANTAAKbG93ZXJCb3VuZHQAEEx4c2J0aS9hcGkvVHlwZTtbAA50eXBlUGFyYW1ldGVyc3EAfgBPTAAKdXBwZXJCb3VuZHEAfgBgTAAIdmFyaWFuY2V0ABRMeHNidGkvYXBpL1ZhcmlhbmNlO3hwdXEAfgBYAAAAAHQAE2NhbGN1bGF0b3IuU2lnbmFsLlRzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwdAAHTm90aGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZ3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AdHVxAH4AXQAAAABzcQB+AGV0AANBbnlxAH4AbX5yABJ4c2J0aS5hcGkuVmFyaWFuY2UAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAlJbnZhcmlhbnR+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cQB+AH10AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4AZ3NxAH4AhXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBNTAAJaW5oZXJpdGVkcQB+AE1MAAdwYXJlbnRzcQB+AE14cQB+AGhzcQB+AIV1cQB+AEgAAAAAc3EAfgCFdXEAfgBIAAAAAHNxAH4AhXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3EAfgBldAAGT2JqZWN0c3EAfgBrc3EAfgBudXEAfgBxAAAAA3NxAH4Ac3QABGphdmFzcQB+AHN0AARsYW5ncQB+AHhzcQB+AGVxAH4Ae3NxAH4Aa3NxAH4AbnVxAH4AcQAAAAJzcQB+AHNxAH4AdnEAfgB4c3EAfgBKcQB+AFd1cQB+AFgAAAAAc3EAfgBaAHQADmNhbGN1bGF0b3IuVmFydXEAfgBdAAAAAXNxAH4AX3VxAH4AWAAAAAB0ABBjYWxjdWxhdG9yLlZhci5UcQB+AGl1cQB+AF0AAAAAcQB+AHpxAH4AfnEAfgCBdXEAfgCDAAAAAHNxAH4AhXEAfgCJc3EAfgCFc3EAfgCLc3EAfgCFdXEAfgBIAAAAAHNxAH4AhXVxAH4ASAAAAABzcQB+AIV1cQB+AJIAAAADc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBmWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBnc3EAfgBldAAGU2lnbmFsc3EAfgBrc3EAfgBudXEAfgBxAAAAAnNxAH4Ac3QACmNhbGN1bGF0b3JxAH4AeHVxAH4AkgAAAAFzcgAWeHNidGkuYXBpLlBhcmFtZXRlclJlZj/Y4zkALHOwAgABTAACaWRxAH4ADXhxAH4AZ3QAEGNhbGN1bGF0b3IuVmFyLlRzcQB+AGVxAH4AlXNxAH4Aa3NxAH4AbnVxAH4AcQAAAANzcQB+AHNxAH4AmnNxAH4Ac3EAfgCccQB+AHhzcQB+AGVxAH4Ae3NxAH4Aa3NxAH4AbnVxAH4AcQAAAAJzcQB+AHNxAH4AdnEAfgB4c3EAfgBKcQB+AFd1cQB+AFgAAAAAc3EAfgBaAHQADmNhbGN1bGF0b3IuVmFydXEAfgBdAAAAAH5xAH4AgHQABk1vZHVsZXVxAH4AgwAAAABzcQB+AIVxAH4AiXNxAH4AhXNxAH4Ai3NxAH4AhXVxAH4ASAAAAABzcQB+AIV1cQB+AEgAAAAAc3EAfgCFdXEAfgCSAAAAAnNxAH4AZXEAfgCVc3EAfgBrc3EAfgBudXEAfgBxAAAAA3NxAH4Ac3EAfgCac3EAfgBzcQB+AJxxAH4AeHNxAH4AZXEAfgB7c3EAfgBrc3EAfgBudXEAfgBxAAAAAnNxAH4Ac3EAfgB2cQB+AHhzcQB+AEpxAH4AV3VxAH4AWAAAAABzcQB+AFoAdAATY2FsY3VsYXRvci5Ob1NpZ25hbHVxAH4AXQAAAABxAH4A03VxAH4AgwAAAABzcQB+AIVxAH4AiXNxAH4AhXNxAH4Ai3NxAH4AhXVxAH4ASAAAAABzcQB+AIV1cQB+AEgAAAAAc3EAfgCFdXEAfgCSAAAAA3NxAH4AtXNxAH4AZXQABlNpZ25hbHNxAH4Aa3NxAH4AbnVxAH4AcQAAAAJzcQB+AHN0AApjYWxjdWxhdG9ycQB+AHh1cQB+AJIAAAABc3EAfgBlcQB+AGpzcQB+AGtzcQB+AG51cQB+AHEAAAACc3EAfgBzcQB+AHZxAH4AeHNxAH4AZXEAfgCVc3EAfgBrc3EAfgBudXEAfgBxAAAAA3NxAH4Ac3EAfgCac3EAfgBzcQB+AJxxAH4AeHNxAH4AZXEAfgB7cQB+AQNzcQB+AEpxAH4AV3VxAH4AWAAAAABzcQB+AFoAdAARY2FsY3VsYXRvci5TaWduYWx1cQB+AF0AAAAAcQB+ANN1cQB+AIMAAAAAc3EAfgCFcQB+AIlzcQB+AIVzcQB+AItzcQB+AIV1cQB+AEgAAAAAc3EAfgCFdXEAfgBIAAAAAHNxAH4AhXVxAH4AkgAAAAJzcQB+AGVxAH4AlXNxAH4Aa3NxAH4AbnVxAH4AcQAAAANzcQB+AHNxAH4AmnNxAH4Ac3EAfgCccQB+AHhzcQB+AGVxAH4Ae3NxAH4Aa3NxAH4AbnVxAH4AcQAAAAJzcQB+AHNxAH4AdnEAfgB4dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKY2FsY3VsYXRvcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbW9bVLx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABfQzpcVXNlcnNcQWxleFxEZXNrdG9wXFByb2dyYW1hc1NjYWxhXEZ1bmNpb25hbFByb2dyYW1taW5nMlxjYWxjdWxhdG9yXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT1pilnMeY0Yue8UmtBJjSEPHMgAg==
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwm7ozWgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwDwNPkXQABm5vdGlmeXNxAH4ADDfoItZ0ABh0d2VldFJlbWFpbmluZ0NoYXJzQ291bnRzcQB+AAzVreTBdAAEd2FpdHNxAH4ADF2DBJx0AA0kYXNJbnN0YW5jZU9mc3EAfgAMWRu6uHQABmVxdWFsc3NxAH4ADK1oXFl0AAxhc0luc3RhbmNlT2ZzcQB+AAzd/3ejdAAbY29sb3JGb3JSZW1haW5pbmdDaGFyc0NvdW50c3EAfgAMvh+swHQADHN5bmNocm9uaXplZHNxAH4ADMmVmId0AA0kaXNJbnN0YW5jZU9mc3EAfgAMsc87KnQADk1heFR3ZWV0TGVuZ3Roc3EAfgAMrp3UrnQACW5vdGlmeUFsbHNxAH4ADB4kiLt0AAxpc0luc3RhbmNlT2ZzcQB+AAxLY9IzdAACPT1zcQB+AAxS8dYJdAAFY2xvbmVzcQB+AAxQ+WB1dAAIdG9TdHJpbmdzcQB+AAyGgvN4dAACIT1zcQB+AAz/qgBqdAAIZ2V0Q2xhc3NzcQB+AAxzeCtRdAACbmVzcQB+AAyv1ThSdAALVHdlZXRMZW5ndGhzcQB+AAz6hvRzdAACZXFzcQB+AAyiMBmUdAACIyNzcQB+AAy9jDQPdAAIZmluYWxpemVzcQB+AAxfya77dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAWY2FsY3VsYXRvci5Ud2VldExlbmd0aHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGJzcQB+AF11cQB+AEAAAAAAc3EAfgBddXEAfgBAAAAAAHNxAH4AXXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AenQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3NxAH4AbnQAA0FueXNxAH4AcnNxAH4AdXVxAH4AeAAAAAJzcQB+AHp0AAVzY2FsYXEAfgCBdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKY2FsY3VsYXRvcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbW9ffeR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABfQzpcVXNlcnNcQWxleFxEZXNrdG9wXFByb2dyYW1hc1NjYWxhXEZ1bmNpb25hbFByb2dyYW1taW5nMlxjYWxjdWxhdG9yXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQuZJqVxqB1AdLXpSJqSOe5+7Fj7Q==
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwB2GhlgABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyb4xfHQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAMJhK6tnQABHdhaXRzcQB+AAzx5+qMdAANJGFzSW5zdGFuY2VPZnNxAH4ADM2K/A90AAZlcXVhbHNzcQB+AAzxbFRpdAAMYXNJbnN0YW5jZU9mc3EAfgAMzsiFSnQADHN5bmNocm9uaXplZHNxAH4ADFjDlPV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMqj2IS3QAF3Jlc291cmNlQXNTdHJlYW1Gcm9tU3Jjc3EAfgAMg3y8U3QACW5vdGlmeUFsbHNxAH4ADCYkqcp0AAxpc0luc3RhbmNlT2ZzcQB+AAxpxNpvdAADPz8/c3EAfgAMmnpgkXQAAj09c3EAfgAM8o3wU3QABWNsb25lc3EAfgAMZ0zWI3QAB3N1YkZpbGVzcQB+AAwkK+HodAAIdG9TdHJpbmdzcQB+AAw/usRqdAACIT1zcQB+AAwIl7qqdAAIZ2V0Q2xhc3NzcQB+AAwIKkOTdAACbmVzcQB+AAwadAmLdAACZXFzcQB+AAyTEjXPdAACIyNzcQB+AAyNdORTdAAIZmluYWxpemVzcQB+AAxU1D+IdAAIaGFzaENvZGVzcQB+AAx7bUT0dAADKioqc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBfc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZHNxAH4AX3VxAH4AQgAAAABzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB8dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB9c3EAfgBwdAADQW55c3EAfgB0c3EAfgB3dXEAfgB6AAAAAnNxAH4AfHQABXNjYWxhcQB+AIN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAW1vW1S8dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAX0M6XFVzZXJzXEFsZXhcRGVza3RvcFxQcm9ncmFtYXNTY2FsYVxGdW5jaW9uYWxQcm9ncmFtbWluZzJcY2FsY3VsYXRvclx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiFuPEqWyqD2tZY92zB/dZ4o41Kg=
+external apis:
+0 items
+source infos:
+5 items
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Calculator.scala -> 
+AAAAAAAAAAA=
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Polynomial.scala -> 
+AAAAAAAAAAA=
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\Signal.scala -> 
+AAAAAAAAAAA=
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\calculator\TweetLength.scala -> 
+AAAAAAAAAAA=
+C:\Users\Alex\Desktop\ProgramasScala\FuncionalProgramming2\calculator\src\main\scala\common\package.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbW9bVLx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAX0M6XFVzZXJzXEFsZXhcRGVza3RvcFxQcm9ncmFtYXNTY2FsYVxGdW5jaW9uYWxQcm9ncmFtbWluZzJcY2FsY3VsYXRvclx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbW9ffeR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAX0M6XFVzZXJzXEFsZXhcRGVza3RvcFxQcm9ncmFtYXNTY2FsYVxGdW5jaW9uYWxQcm9ncmFtbWluZzJcY2FsY3VsYXRvclx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
